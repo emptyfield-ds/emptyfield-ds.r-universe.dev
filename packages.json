@@ -1,0 +1,18 @@
+[
+  {
+    "package": "emptyfield",
+    "url": "https://github.com/emptyfield-ds/emptyfield"
+  },
+  {
+    "package": "opensky",
+    "url": "https://github.com/emptyfield-ds/opensky"
+  },
+  {
+    "package": "shunyata",
+    "url": "https://github.com/emptyfield-ds/shunyata"
+  },
+  {
+    "package": "rrr.workshop",
+    "url": "https://github.com/emptyfield-ds/rrr.workshop"
+  }
+]
