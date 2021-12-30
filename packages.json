@@ -14,5 +14,9 @@
   {
     "package": "rrr.workshop",
     "url": "https://github.com/emptyfield-ds/rrr.workshop"
+  },
+  {
+    "package": "rpkg.workshop",
+    "url": "https://github.com/emptyfield-ds/rpkg.workshop"
   }
 ]
